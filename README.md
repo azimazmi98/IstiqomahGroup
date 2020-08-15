@@ -58,7 +58,7 @@ ii) Container Component
 <img src = "NavigationDiagram.jpeg">
 
 <h5>h. Sequence Diagram</h5>
-<img src = "SequenceDiagram.jpeg" width="500" height="400">
+<img src = "SequenceDiagram.jpeg" width="700" height="600">
 
 <h5>h. References</h5>
 
