@@ -49,7 +49,7 @@ i)  Presentational Component</br>
 	- View</br>
 	- Text Input</br>
 	- Button</br>
-	- SectionView</br>
+	- SectionList</br>
 ii) Container Component</br>
 	- onPress 
 	
