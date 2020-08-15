@@ -1,9 +1,9 @@
 # IstiqomahGroup
 
 <h5>a. Group Members</h5>
-  1. Ahmad Huzaifi bin Norzli [1713831]
-  2. Abdul Azim bin Azmi [1715737]
-  3. Muhammad Firdaus bin Mahmad Razelan [1717977]
+  1. Ahmad Huzaifi bin Norzli [1713831] </br>
+  2. Abdul Azim bin Azmi [1715737]</br>
+  3. Muhammad Firdaus bin Mahmad Razelan [1717977]</br>
 
 <h5>b. Title of the project</h5>
 
@@ -49,7 +49,7 @@ i)  Presentational Component
 	- View
 	- Text Input
 	- Button
-	- SectionView
+	- SectionView</br>
 ii) Container Component
 	- onPress 
 	
