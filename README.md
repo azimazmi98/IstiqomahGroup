@@ -55,7 +55,7 @@ ii) Container Component
 	- onPress 
 	
 <h5>g. Screen Navigation</h5>
-<img src = "NavigationDiagram.jpeg">
+<img src = "NavigationDiagram.jpeg" width="600" height="500">
 
 <h5>h. Sequence Diagram</h5>
 <img src = "SequenceDiagram.jpeg" width="600" height="500">
