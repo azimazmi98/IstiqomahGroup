@@ -12,7 +12,7 @@ export const Styles = StyleSheet.create({
 
       textAlign: 'center',
 
-      margin: 0,
+      margin: 10,
 
     },
 
@@ -25,5 +25,24 @@ export const Styles = StyleSheet.create({
       marginBottom: 5,
 
     },
+
+    container: {
+
+      alignItems: 'center',
+
+      color: '#333333',
+
+      marginBottom: 5,
+
+    },
+
+  input: {
+    width: 200,
+    height: 44,
+    padding: 10,
+    borderWidth: 1,
+    borderColor: 'black',
+    marginBottom: 10,
+  },
 
   });
