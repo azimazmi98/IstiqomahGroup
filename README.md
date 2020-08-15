@@ -11,8 +11,8 @@
   Quiz Game
  
 <h5>c. Introduction</h5>
-
-	Quiz Game is a React-Native based mobile application meant to test players knowledge especially in the Science and Arts category. The app uses Firebase as a backend server to store a player's profile and their highscore. We aim to set up Quiz Game as an intuitive platform for users to test their knowledge in a fun and wonderful experience. For initial analysis,we have tried some of the quiz-based apps in the market and we realized that most of them were provided with features such as multiplayer,live ranking system and sharing. We come to a conclusion that in order to develop such an application with such features requires ample time in development and due to feasibility in time issues we decided only to include necessary features such as live ranking and user authentication to make the most of Quiz Game.
+        About Quiz Game:
+	A React-Native based mobile application meant to test players knowledge especially in the Science and Arts category. The app uses Firebase as a backend server to store a player's profile and their highscore. We aim to set up Quiz Game as an intuitive platform for users to test their knowledge in a fun and wonderful experience. For initial analysis,we have tried some of the quiz-based apps in the market and we realized that most of them were provided with features such as multiplayer,live ranking system and sharing. We come to a conclusion that in order to develop such an application with such features requires ample time in development and due to feasibility in time issues we decided only to include necessary features such as live ranking and user authentication to make the most of Quiz Game.
 
 <h5>d. Objectives</h5> 
 
@@ -44,10 +44,20 @@ iv. Firebase
 - Storage for user’s score and rank
 - Storage for questionnaires
 
-<h5>f. Screen Navigation</h5>
+<h5>f. List of Components</h5>
+
+i)  Presentational Component
+	- View
+	- Text Input
+	- Button
+	- SectionView
+ii) Container Component
+	- onPress 
+	
+<h5>g. Screen Navigation</h5>
 <img src = "NavigationDiagram.jpeg">
 
-<h5>g. Sequence Diagram</h5>
+<h5>h. Sequence Diagram</h5>
 <img src = "SequenceDiagram.jpeg">
 
 <h5>h. References</h5>
