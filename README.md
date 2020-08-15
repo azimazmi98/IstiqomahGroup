@@ -45,12 +45,12 @@ iv. Firebase
 
 <h5>f. List of Components</h5>
 
-i)  Presentational Component
+i)  Presentational Component</br>
 	- View</br>
 	- Text Input</br>
 	- Button</br>
 	- SectionView</br>
-ii) Container Component
+ii) Container Component</br>
 	- onPress 
 	
 <h5>g. Screen Navigation</h5>
