@@ -46,9 +46,9 @@ iv. Firebase
 <h5>f. List of Components</h5>
 
 i)  Presentational Component
-	- View
-	- Text Input
-	- Button
+	- View</br>
+	- Text Input</br>
+	- Button</br>
 	- SectionView</br>
 ii) Container Component
 	- onPress 
