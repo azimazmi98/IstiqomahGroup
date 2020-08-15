@@ -1,11 +1,11 @@
 # IstiqomahGroup
 
 <h5>a. Group Members</h5>
-|               NAME                 |MATRIC NO.|
-|-----------------------------------------------|
-|Ahmad Huzaifi bin Norzli             |1713831|
-|Abdul Azim bin Azmi                  |1715737|
-|Muhammad Firdaus bin Mahmad Razelan  |1717977|
+|NAME|MATRIC NO.|
+|-------------------------------------------|
+|Ahmad Huzaifi bin Norzli|1713831|
+|Abdul Azim bin Azmi|1715737|
+|Muhammad Firdaus bin Mahmad Razelan|1717977|
 
 <h5>b. Title of the project</h5>
 
